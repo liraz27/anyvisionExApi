@@ -13,7 +13,7 @@
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "ffmpeg": "0.0.4",
-    "mongodb": "^3.1.10",
+    "mongodb": "^3.1.13",
     "node-rtsp-stream": "0.0.8",
     "node-rtsp-stream-es6": "^1.0.7",
     "nodejscore": "^0.5.0",
